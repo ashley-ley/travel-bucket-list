@@ -12,7 +12,7 @@ This repository contains the code and resources to create an interactive map usi
 ## Files Included
 
 - `index.html`: The main HTML file that renders the map and includes the required JavaScript and CSS files.
-- `app.js`: JavaScript file responsible for configuring the map, adding base layers, overlay layers, and popups.
+- `logic.js`: JavaScript file responsible for configuring the map, adding base layers, overlay layers, and popups.
 - `style.css`: CSS file for custom styling of the map and popups.
 - `data.js` (optional): If needed, a separate JavaScript file for storing and managing data.
 
