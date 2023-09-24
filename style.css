@@ -1,0 +1,25 @@
+/* Remove the default margin and padding from the body. */
+body {
+    padding: 0;
+    margin: 0;
+  }
+
+#legend {
+  font-size: 16px !important; /* Use !important to ensure it takes precedence */
+  padding: 10px !important;
+  background-color: white !important;
+  border: 2px solid black !important;
+  border-radius: 5px !important;
+}
+  
+  /* Set map, body, and html to 100% of the screen size. */
+  #map,
+  body,
+  html {
+    height: 100%;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
